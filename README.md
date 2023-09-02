@@ -38,7 +38,7 @@ A curated list of various learning resources for computer graphics on mobile dev
 
 ## OpenGL ES
 
-* [OpenGL ES Usage Recommendations](https://developer.samsung.com/game/opengl) - Practical and effective tips for GLES programming.
+* [OpenGL ES Usage Recommendations](https://developer.samsung.com/game/opengl) - Practical and effective tips for OpenGLES programming.
 * [How to Correctly Handle Framebuffers](https://community.arm.com/developer/tools-software/graphics/b/blog/posts/mali-performance-2-how-to-correctly-handle-framebuffers) by Peter Harris - A crystal clear explanation with sample code for avoiding redundant tile writes.
 
 ## Vulkan
